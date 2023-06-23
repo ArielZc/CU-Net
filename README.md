@@ -4,4 +4,7 @@
 Testing
 -------
 [Pretrained models](https://1drv.ms/f/s!AgUzsAv5iJefjzwzAVgodGN8ynNG?e=YIhAQD)
-
+Download the pretrained models, then run the following commands:
+'''shell
+python testing/stage2_test.py
+'''
